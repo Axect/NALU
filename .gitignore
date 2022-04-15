@@ -2,3 +2,5 @@
 wandb/
 NALU_Test/
 None/
+__pycache__/
+LBN_Tutorial/
